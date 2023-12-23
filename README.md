@@ -1,12 +1,12 @@
-# Face_Scanner-Tkinter
+# Face_Scanner-Tkinter.TUR.
 
 
-modules: cv2, keras_models, PIL, numpy, random, time, tkinter, from tkinter messagebox, time
-by: Alper Tuna KILIÇ
+modüller: cv2, keras_models, PIL, numpy, random, time, tkinter, from tkinter messagebox, time
+yazar: Alper Tuna KILIÇ
 
-1- Takes an image from your default camera.
-2- Analyzes the photo
-3- Decides that It's me or not
-4- Gives info about the resul.
+1- Varsayılan kameranızdan bir fotoğraf alır.
+2- Fotoğrafı analiz eder
+3- Modelde belirlenen yüz olup olmadığına karar verir(ben)
+4- Sonuç hakkında kullanıcıyı bilgilendirir
 
-*!!! On Development*
+*!!! Geliştirme aşamasında*
